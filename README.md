@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rengaraj Ramgovind</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">A passionate developer from India</h3>
 
 - 🔭 I’m currently working on **Nodejs, React Vue Angula**
 
