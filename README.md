@@ -1,8 +1,6 @@
-<h1 align="center">A passionate developer from India</h3>
+<h1 align="center">A passionate OSS enthusiast and Developer</h3>
 
-- 🔭 I’m currently working on **Nodejs, React Vue Angula**
-
-- 🌱 I’m currently learning **Machine Learning**
+- 🔭 I’m currently working on **Nodejs, Networks Python and Fundamental Machine Learning**
 
 - 👯 I’m looking to collaborate on **API projects**
 
