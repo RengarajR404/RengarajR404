@@ -19,7 +19,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rengarajr404&show_icons=true&locale=en" alt="rengarajr404" /></p>
 
-
+<p>
+  [![Rengaraj R's GitHub stats](https://github-readme-stats.vercel.app/api?username=RengarajR404)](https://github.com/rengarajr404/github-readme-stats)
+</p>
 
 <!---
 RengarajR404/RengarajR404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
